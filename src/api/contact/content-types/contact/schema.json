@@ -12,10 +12,10 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Nom": {
+    "nom": {
       "type": "string"
     },
-    "Prenom": {
+    "prenom": {
       "type": "string"
     },
     "email": {
