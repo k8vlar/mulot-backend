@@ -374,8 +374,8 @@ export interface ApiContactContact extends Schema.CollectionType {
     draftAndPublish: true;
   };
   attributes: {
-    nom: Attribute.String;
-    prenom: Attribute.String;
+    Nom: Attribute.String;
+    Prenom: Attribute.String;
     email: Attribute.Email;
     message: Attribute.Text;
     createdAt: Attribute.DateTime;
